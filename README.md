@@ -158,5 +158,59 @@ Untuk menambahkan id ke dalam elemen HTML, tulis kata kunci id di dalam tag pemb
 Diatas contoh perbedaan penggunaan id dengan class.
 
 ## CSS
+Css adalah singkatan dari Cascading Style Sheet yang dipergunakan untuk menentukan tampilan dan format pada sebuah website. Dengan menggunakan CSS, kita dapat mengatur mulai dari font, warna tulisan dan latar belakang pada website tersebut. 
+<h3>Syntax CSS</h3>
+contoh syntax CSS pada elemen < p >
+  
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/3054b314-115e-4241-9074-aed52a4d339e)
+<ul type="disc">
+<li> p adalah pilihan dalam CSS (menunjuk ke elemen HTML yang ingin di style : < p > ). </li>
+<li>color adalah properti, dan red merupakan nilai properti </li>
+<li>text-align adalah properti, dan center merupakan nilai properti </li>
+</ul>
+
+<h3>Warna CSS</h3>
+Penggunaan warna ditentukan menggunakan nama warna yang telah ditentukan sebelumnya, atau nilai RGB, HEX, HSL, RGBA, HSLA.<br>
+Di CSS, warna dapat ditentukan sebagai nilai RGB, menggunakan rumus ini: rgb ( merah, hijau , biru ) <br>
+Warna juga dapat ditentukan menggunakan nilai heksadesimal dalam bentuk: #rrggbb , contoh # fffff <br>
+Selain itu, suatu warna dapat ditentukan menggunakan hue, saturation, dan lightness (HSL) dalam bentuk: hsl( rona , saturasi , kecerahan ) <br>
+
+<h3>Background CSS</h3>
+Properti Backround pada CSS <br>
+a. background-color : menetapkan warna background <br>
+b. background-image : menetapkan gambar untuk background <br>
+c. background-origin : menentukan dimana background diposisikan <br>
+d. background-position : mengatur posisi awal background <br>
+e. background-size : mengatur ukuran background <br>
+
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/32438e30-c723-4cb5-9441-cd0b9f4ef819)
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/d0db8cbc-8d2f-4df9-8676-a840d29320a9)
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/940105e2-e3a4-4312-a44c-19a4d2527258)
+
+<h3>Teks CSS</h3>
+1.Warna Teks<br>
+synatx
+
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/58b56241-0900-4717-9d4e-d88a441f9c7e) <br>
+mengubah warna tulisan menjadi biru pada paragraf, dan hijau pada heading. <br>
+2.Perataan Teks <br>
+syntax
+
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/d233bb8d-e38b-4058-9d64-897641fff645) <br>
+mengatur peratan pada heading. Heading 1 rata ditengah, heading 2 rata dikiri, heading 3 rata dikanan.
+
+3.Dekorasi Teks <br>
+syntax
+
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/2e74f8c1-8c0c-495e-b816-3fc9763e8374)
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/6c209131-b17a-4746-a2cd-014840a1a9ce) <br>
+
+4.Transformasi Teks <br>
+syntax
+
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/ba336465-d7f9-4f45-9941-352972bb596a)
+
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/52ed6af2-cf3b-4dbe-9341-e21e137faa3e)
+
 
 
