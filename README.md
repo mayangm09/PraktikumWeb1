@@ -212,5 +212,96 @@ syntax
 
 ![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/52ed6af2-cf3b-4dbe-9341-e21e137faa3e)
 
+5.Spacing Teks <br>
+syantax
+
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/570d9505-323f-4f0c-b15e-c9d61cb4aa41)
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/95b47abd-7476-4bb4-be2b-4788f83857e7)
+
+6.Shadow Teks <br>
+syantax
+
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/10a75629-0f0a-458c-947f-55c280774c41)
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/bdb4512a-868f-4292-a3b2-4affe2a4e35f)
+
+<h3>Tabel CSS</h3>
+Dengan adanya CSS tampilan Tabel akan menjadi lebih menarik dengan menambahkan style warna dan border. Berikut contoh tabel menggunakan CSS
+
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/7be9e9ea-06dd-46be-ad6b-999f09d5a776)
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/859b64cd-edf8-4e91-b1e4-1f55cd9733f3)
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/31f503a7-dec3-4b77-b222-bd18099d6f44)
+
+## Java Script
+JavaScript adalah bahasa pemrograman yang digunakan dalam pengembangan website agar lebih dinamis dan interaktif. <br>
+Metode JavaScript HTML adalah getElementById() <br>
+Dalam HTML, kode JavaScript disisipkan di antara tag < script >dan < /script >. <br>
+
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/4f4d177e-80dc-4817-a7c7-d7f593cf6824)
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/66866936-30d3-40a6-b68c-a5b8ab0362ad)
+
+<h3>Java Script di Head </h3>
+Dalam contoh ini, JavaScript function ditempatkan di < head > bagian halaman HTML.
+
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/14c5e1e4-daec-445f-b900-a91f7c1dc05d)
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/8fea38f8-86f2-45c5-80ec-16e3690881ad)<br>
+
+<h3>Java Script di Body</h3>
+contoh JavaScript function ditempatkan di < body > bagian halaman HTML.
+
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/9aead8b1-af58-4a2b-8bb2-585e0d5b6fbe)
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/bfb29538-7d39-4b4a-ba28-1390693f3b6b)
+
+<h3>Output JavaScript</h3>
+JavaScript dapat "menampilkan" data dengan berbagai cara:
+<ul type="square">
+<li>Menulis ke dalam elemen HTML, menggunakan innerHTML.</li>
+<li>Menulis ke dalam output HTML menggunakan document.write().</li>
+<li>Menulis ke dalam alert box, menggunakan window.alert().</li>
+<li>Menulis ke konsol browser, menggunakan console.log().</li>
+</ul>
+
+<h3>Kata Kunci di Java Script</h3>
+<ul type="circle">
+<li>var : mendeklarasikan variabel</li>
+<li>let : mendeklarasikan variabel blok</li>
+<li>const : mendeklarasikan konstanta blok </li>
+<li>if : Menandai blok pernyataan yang akan dieksekusi pada suatu kondisi</li>
+<li>switch : Menandai blok pernyataan yang akan dieksekusi dalam kasus berbeda</li>
+<li>for : Menandai blok pernyataan yang akan dieksekusi dalam satu lingkaran</li>
+<li>function : Mendeklarasikan suatu fungsi</li>
+<li>return : keluar dari suatu fungsi </li>
+<li>try : Mengimplementasikan penanganan kesalahan pada blok pernyataan</li>
+
+<h3>Tipe Data JavaScript</h3>
+1. String <br>
+2. Number <br>
+3. Bigint <br>
+4. Boolean <br>
+5. Undefined <br>
+6. Null <br>
+7. Symbol <br>
+8. Object <br>
+
+<h3>Object Datatype</h3>
+1. An object <br>
+2. An array <br>
+3. A date <br>
+
+<h3>Syntax Javascript</h3>
+Fungsi JavaScript didefinisikan dengan "function" kata kunci, diikuti dengan "nama" , diikuti dengan tanda kurung () . <br>
+Nama fungsi dapat berisi huruf, angka, garis bawah, dan tanda dolar (aturannya sama seperti variabel). <br>
+Tanda kurung dapat menyertakan nama parameter yang dipisahkan dengan koma <br>
+Kode yang akan dieksekusi, berdasarkan fungsi, ditempatkan di dalam tanda kurung kurawal: { } <br>
+
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/733ba68d-312c-4278-9f83-b4a193bb0d7a)
+
+<h3>JavaScript Can Change HTML Attribute Values</h3>
+
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/2f8bae0f-d523-4290-a828-84347768161a)
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/c64bd976-40f5-499b-acbb-7ade6cd259fa)
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/b23b30cc-3321-4463-902d-e2ba571bd01a) <br>
+proses JavaScript dalam skrip tersebut adalah mencari elemen gambar berdasarkan id, dan kemudian mengubah nilai atribut src-nya sesuai dengan tindakan yang diambil oleh pengguna (yaitu mengklik tombol "Turn on the light" atau "Turn off the light"). Ini memungkinkan pengguna untuk mengontrol tampilan gambar di halaman web dengan interaksi yang sederhana.
+
+
 
 
