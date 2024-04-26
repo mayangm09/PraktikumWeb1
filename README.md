@@ -103,11 +103,15 @@ Atribut target dapat memiliki salah satu dari nilai berikut: <br>
 
 ![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/c2bbe391-74c4-4beb-9f14-938a0106e17e)
 
-![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/d01eeee5-c253-422b-b28e-d03dec331db7)
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/d01eeee5-c253-422b-b28e-d03dec331db7) <br>
+a. Gunakan <a>elemen untuk menentukan tautan <br>
+b. Gunakan href atribut untuk menentukan alamat tautan <br>
+c. Gunakan target atribut untuk menentukan tempat membuka dokumen tertaut <br>
+d. Apabila menggunalan gambar, gunakan <img>elemen (di dalam <a>) untuk menggunakan gambar sebagai tautan <br>
 
-![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/4ac4094a-4270-443a-96b2-298cdc6b3424)
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/4ac4094a-4270-443a-96b2-298cdc6b3424) <br>
 
-Script tersebut menggunakan atribut_blank, jadi ketika kita mengklik "HTML Links" link tersebut akan mengarahkan kita untuk membuka dokumen di tab baru.
+Contoh Script diatas menggunakan atribut_blank, jadi ketika kita mengklik "HTML Links" link tersebut akan mengarahkan kita untuk membuka dokumen di tab baru.
 <h3>Gambar Pada HTML</h3>
 Penggunaan gambar dapat meningkatkan desain tampilan web menjadi lebih menarik.
 a. Gunakan elemen HTML < img >untuk mendefinisikan gambar <br>
@@ -115,6 +119,8 @@ b. Gunakan atribut HTML src untuk menentukan URL gambar <br>
 c. Gunakan atribut HTML alt untuk menentukan teks alternatif untuk gambar, jika tidak dapat ditampilkan <br>
 d. Gunakan HTML widthdan height atribut atau CSS width dan height properti untuk menentukan ukuran gambar <br>
 e. Gunakan properti CSS float untuk membiarkan gambar melayang ke kiri atau ke kanan <br>
+
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/9c19dac5-1c4d-4107-bd6d-e13bf3bac0c3)
 
 ![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/8a284d17-5fcc-4078-ae9b-a44222f85d24)
 
@@ -134,7 +140,23 @@ b. < ol> mengurutkan daftar dengan menggunakan tipe, seperti a , A, 1, i, I <br>
 c. < li > mendefinisikan item daftar 
 
 <h3>Class pada HTML</h3>
+<ul type="square">
+<li>Atribut HTML class menentukan satu atau lebih nama kelas untuk suatu elemen</li>
+<li>Kelas digunakan oleh CSS dan JavaScript untuk memilih dan mengakses elemen tertentu</li>
+<li>Atribut ini class dapat digunakan pada elemen HTML apa pun</li>
+<li>Nama kelas peka huruf besar dan kecil</li>
+<li>Elemen HTML yang berbeda dapat menunjuk ke nama kelas yang sama</li>
+<li>JavaScript dapat mengakses elemen dengan nama kelas tertentu dengan metode getElementsByClassName() </li>
+</ul>
 
+<h3>id HTML</h3>
+id merupakan atribut global HTML yang digunkaan untuk menentukan id unik elemen HTML. Fungsinya sama seperti class, untuk memudahkan kita menyeleksi elemen menggunakan JavaScript atau CSS.namun, tidak boleh memiliki lebih dari satu elemen dengan id yang sama.<br>
+Untuk menambahkan id ke dalam elemen HTML, tulis kata kunci id di dalam tag pembuka diikuti dengan sama dengan dan nama id di dalam tanda kutip, id="namaId". SEdangkan di CSS, kita dapat menyeleksi elemen yang menggunakan id tertentu menggunakan tanda pagar (#) diikuti nama id.
 
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/67733676-c12a-4f32-9e42-2d0c2d163a3c)
+![image](https://github.com/mayangm09/PraktikumWeb1/assets/167959980/a0ee9333-4406-471b-9be1-48e775749f8d)
+Diatas contoh perbedaan penggunaan id dengan class.
+
+## CSS
 
 
